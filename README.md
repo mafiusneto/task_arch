@@ -1,6 +1,24 @@
 # task_arch
 
 A new Flutter project.
+prativa básica
+
+Usos:
+- provider
+- uso de alguns widgets básicos
+- uso DB sqflite
+- uso de arquitetura MVVM (básicos/incompleta) 
+
+possíveis melhorias
+- melhorar a arquitetura MVVM
+- melhorar implementação de DB (tá funcionando bem)
+- add sub-tasks
+- add % evolucao das subtask
+- editar descricao task
+- add descrições + detalhamento
+- exportar task como msg por exemplo (whatsapp, ...)
+
+
 
 ## Getting Started
 
